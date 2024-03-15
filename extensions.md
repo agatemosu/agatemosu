@@ -57,7 +57,6 @@
 		"~/code/wallpapers/editor/112764530_p8.png",
 		"~/code/wallpapers/editor/112764530_p20.png",
 		"~/code/wallpapers/editor/112764530_p24.png",
-		"~/code/wallpapers/editor/112764530_p25.png",
 		"~/code/wallpapers/editor/114087124_p3.png",
 		"~/code/wallpapers/editor/114087124_p10.png",
 		"~/code/wallpapers/editor/114087124_p26.png"
