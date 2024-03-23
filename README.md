@@ -4,4 +4,6 @@
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=agatemosu&layout=compact&langs_count=8&card_width=410$title_color=ffffff&text_color=ffffff&bg_color=22282a&hide_border=true&border_radius=6)](#)
 
+[![Profile views](https://count.getloli.com/get/@agatemosu?theme=rule34)](#)
+
 ###### [Extensions](extensions.md)
