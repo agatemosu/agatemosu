@@ -32,47 +32,47 @@
 
 ```jsonc
 {
-	"editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
-	"editor.tabSize": 3,
-	"editor.insertSpaces": false,
-	"editor.wordWrap": "on",
-	"editor.formatOnPaste": true,
-	"editor.formatOnSave": true,
-	"explorer.confirmDelete": false,
-	"explorer.confirmDragAndDrop": false,
-	"background.editorBackgrounds": [
-		// https://www.pixiv.net/artworks/110924199
-		// https://www.pixiv.net/artworks/112764530
-		// https://www.pixiv.net/artworks/114087124
-		"~/code/wallpapers/editor/110924199_p7.png",
-		"~/code/wallpapers/editor/110924199_p30.png",
-		"~/code/wallpapers/editor/110924199_p31.png",
-		"~/code/wallpapers/editor/112764530_p1.png",
-		"~/code/wallpapers/editor/112764530_p8.png",
-		"~/code/wallpapers/editor/112764530_p20.png",
-		"~/code/wallpapers/editor/112764530_p24.png",
-		"~/code/wallpapers/editor/114087124_p3.png",
-		"~/code/wallpapers/editor/114087124_p10.png",
-		"~/code/wallpapers/editor/114087124_p26.png"
-	],
-	"background.sidebarBackgrounds": [
-		// https://www.pixiv.net/artworks/116524058
-		// https://www.pixiv.net/artworks/110138648
-		"~/code/wallpapers/sidebar/116524058_p0.png",
-		"~/code/wallpapers/sidebar/110138648_p0.jpg"
-	],
-	"background.panelBackgrounds": [
-		// https://www.pixiv.net/artworks/106593162
-		"~/code/wallpapers/panel/106593162_p0.png"
-	],
-	"background.backgroundOpacity": [0.9, 0.9, 0.8, 0.8],
-	"C_Cpp.default.compilerPath": "g++",
-	"vscord.app.name": "Visual Studio Code",
-	"vscord.app.privacyMode.enable": true,
-	"git.autofetch": true,
-	"git.confirmSync": false,
-	"git.enableSmartCommit": true,
-	"prettier.useTabs": true
+   "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+   "editor.tabSize": 3,
+   "editor.insertSpaces": false,
+   "editor.wordWrap": "on",
+   "editor.formatOnPaste": true,
+   "editor.formatOnSave": true,
+   "explorer.confirmDelete": false,
+   "explorer.confirmDragAndDrop": false,
+   "background.editorBackgrounds": [
+      // https://www.pixiv.net/artworks/110924199
+      // https://www.pixiv.net/artworks/112764530
+      // https://www.pixiv.net/artworks/114087124
+      "~/code/wallpapers/editor/110924199_p7.png",
+      "~/code/wallpapers/editor/110924199_p30.png",
+      "~/code/wallpapers/editor/110924199_p31.png",
+      "~/code/wallpapers/editor/112764530_p1.png",
+      "~/code/wallpapers/editor/112764530_p8.png",
+      "~/code/wallpapers/editor/112764530_p20.png",
+      "~/code/wallpapers/editor/112764530_p24.png",
+      "~/code/wallpapers/editor/114087124_p3.png",
+      "~/code/wallpapers/editor/114087124_p10.png",
+      "~/code/wallpapers/editor/114087124_p26.png"
+   ],
+   "background.sidebarBackgrounds": [
+      // https://www.pixiv.net/artworks/116524058
+      // https://www.pixiv.net/artworks/110138648
+      "~/code/wallpapers/sidebar/116524058_p0.png",
+      "~/code/wallpapers/sidebar/110138648_p0.jpg"
+   ],
+   "background.panelBackgrounds": [
+      // https://www.pixiv.net/artworks/106593162
+      "~/code/wallpapers/panel/106593162_p0.png"
+   ],
+   "background.backgroundOpacity": [0.9, 0.9, 0.8, 0.8],
+   "C_Cpp.default.compilerPath": "g++",
+   "vscord.app.name": "Visual Studio Code",
+   "vscord.app.privacyMode.enable": true,
+   "git.autofetch": true,
+   "git.confirmSync": false,
+   "git.enableSmartCommit": true,
+   "prettier.useTabs": true
 }
 ```
 
