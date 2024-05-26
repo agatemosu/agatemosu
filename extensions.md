@@ -88,23 +88,23 @@
 
 ## Web browser
 
-| Extension | Chrome Web Store | Add-ons for Firefox | Website | Author |
-| :-- | :-- | :-- | :-- | :-- |
-| 7TV | | | [Website](https://7tv.app/) | 7TV |
-| AniMouto | [Chrome](https://chromewebstore.google.com/detail/ilhjhegbgdghfkdgeahkpikkjgaaoklh) | [Firefox](https://addons.mozilla.org/firefox/addon/animouto/) | [Website](https://www.animouto.moe/) | TehNut |
-| DuckDuckGo Privacy Essentials | [Chrome](https://chromewebstore.google.com/detail/bkdgflcldnnnapblkhphbgpggdiikppg) | [Firefox](https://addons.mozilla.org/firefox/addon/duckduckgo-for-firefox) | | DuckDuckGo |
-| Enhancer for YouTube | [Chrome](https://chromewebstore.google.com/detail/ponfpcnoihfmfllpaingbgckeeldkhle) | [Firefox](https://addons.mozilla.org/firefox/addon/enhancer-for-youtube) | | Maxime |
-| FastForward | [Chrome](https://chromewebstore.google.com/detail/icallnadddjmdinamnolclfjanhfoafe) | [Firefox](https://addons.mozilla.org/firefox/addon/fastforwardteam) | [Other downloads](https://fastforward.team/) | FastForwardTeam |
-| GitHub File Icons | [Chrome](https://chromewebstore.google.com/detail/ficfmibkjjnpogdcfhfokmihanoldbfe) | [Firefox](https://addons.mozilla.org/firefox/addon/github-file-icons) | | xxhomey19 |
-| Image Search Options | [Chrome](https://chromewebstore.google.com/detail/kljmejbpilkadikecejccebmccagifhl) | [Firefox](https://addons.mozilla.org/firefox/addon/image-search-options/) | | Xamayon |
-| LanguageTool | [Chrome](https://chromewebstore.google.com/detail/oldceeleldhonbafppcapldpdifcinji?utm_source=lt-homepage) | [Firefox](https://addons.mozilla.org/firefox/addon/languagetool/) | [Other downloads](https://languagetool.org/services) | LanguageTool |
-| osu! subdivide nations | [Chrome](https://chromewebstore.google.com/detail/ehdehfcjlmekjdolbbmjgokdfeoocccd) | [Firefox](https://addons.mozilla.org/firefox/addon/osu-subdivide-nations) | | cavitedev |
-| pp calculator | [Chrome](https://chromewebstore.google.com/detail/eoelpnjffjkdmfhfinfbgiejnbgihpdn) | [Firefox](https://addons.mozilla.org/firefox/addon/pp-calculator) | | abstrakt |
-| PronounDB | | | [Website](https://pronoundb.org/) | Cynthia |
-| Return YouTube Dislike | [Chrome](https://chromewebstore.google.com/detail/gebbhagfogifgggkldgodflihgfeippi) | [Firefox](https://addons.mozilla.org/firefox/addon/return-youtube-dislikes) | | Dmitry Selivanov |
-| Shazam | [Chrome](https://chromewebstore.google.com/detail/mmioliijnhnoblpgimnlajmefafdfilb) | | | Apple |
-| SponsorBlock | [Chrome](https://chromewebstore.google.com/detail/mnjggcdmjocbbbhaepdhchncahnbgone) | [Firefox](https://addons.mozilla.org/firefox/addon/sponsorblock/) | [Other downloads](https://sponsor.ajay.app/) | Ajay |
-| SteamDB | | | [Website](https://steamdb.info/extension/) | SteamDB |
-| Stylus | [Chrome](https://chromewebstore.google.com/detail/clngdbkpkpeebahjckkjfobafhncgmne) | [Firefox](https://addons.mozilla.org/firefox/addon/styl-us) | | Stylus Team |
-| uBlock Origin | [Chrome](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [Firefox](https://addons.mozilla.org/firefox/addon/ublock-origin) | [Website](https://ublockorigin.com/) | Raymond Hill |
-| Vencord | | | [Website](https://vencord.dev/) | Vendicated |
+| Extension                     | Chrome Web Store                                                                    | Add-ons for Firefox                                                         | Website                                              | Author           |
+| :---------------------------- | :---------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :--------------------------------------------------- | :--------------- |
+| 7TV                           |                                                                                     |                                                                             | [Website](https://7tv.app/)                          | 7TV              |
+| AniMouto                      | [Chrome](https://chromewebstore.google.com/detail/ilhjhegbgdghfkdgeahkpikkjgaaoklh) | [Firefox](https://addons.mozilla.org/firefox/addon/animouto/)               | [Website](https://www.animouto.moe/)                 | TehNut           |
+| DuckDuckGo Privacy Essentials | [Chrome](https://chromewebstore.google.com/detail/bkdgflcldnnnapblkhphbgpggdiikppg) | [Firefox](https://addons.mozilla.org/firefox/addon/duckduckgo-for-firefox)  |                                                      | DuckDuckGo       |
+| Enhancer for YouTube          | [Chrome](https://chromewebstore.google.com/detail/ponfpcnoihfmfllpaingbgckeeldkhle) | [Firefox](https://addons.mozilla.org/firefox/addon/enhancer-for-youtube)    |                                                      | Maxime           |
+| FastForward                   | [Chrome](https://chromewebstore.google.com/detail/icallnadddjmdinamnolclfjanhfoafe) | [Firefox](https://addons.mozilla.org/firefox/addon/fastforwardteam)         | [Other downloads](https://fastforward.team/)         | FastForwardTeam  |
+| GitHub File Icons             | [Chrome](https://chromewebstore.google.com/detail/ficfmibkjjnpogdcfhfokmihanoldbfe) | [Firefox](https://addons.mozilla.org/firefox/addon/github-file-icons)       |                                                      | xxhomey19        |
+| Image Search Options          | [Chrome](https://chromewebstore.google.com/detail/kljmejbpilkadikecejccebmccagifhl) | [Firefox](https://addons.mozilla.org/firefox/addon/image-search-options/)   |                                                      | Xamayon          |
+| LanguageTool                  | [Chrome](https://chromewebstore.google.com/detail/oldceeleldhonbafppcapldpdifcinji) | [Firefox](https://addons.mozilla.org/firefox/addon/languagetool/)           | [Other downloads](https://languagetool.org/services) | LanguageTool     |
+| osu! subdivide nations        | [Chrome](https://chromewebstore.google.com/detail/ehdehfcjlmekjdolbbmjgokdfeoocccd) | [Firefox](https://addons.mozilla.org/firefox/addon/osu-subdivide-nations)   |                                                      | cavitedev        |
+| pp calculator                 | [Chrome](https://chromewebstore.google.com/detail/eoelpnjffjkdmfhfinfbgiejnbgihpdn) | [Firefox](https://addons.mozilla.org/firefox/addon/pp-calculator)           |                                                      | abstrakt         |
+| PronounDB                     |                                                                                     |                                                                             | [Website](https://pronoundb.org/)                    | Cynthia          |
+| Return YouTube Dislike        | [Chrome](https://chromewebstore.google.com/detail/gebbhagfogifgggkldgodflihgfeippi) | [Firefox](https://addons.mozilla.org/firefox/addon/return-youtube-dislikes) |                                                      | Dmitry Selivanov |
+| Shazam                        | [Chrome](https://chromewebstore.google.com/detail/mmioliijnhnoblpgimnlajmefafdfilb) |                                                                             |                                                      | Apple            |
+| SponsorBlock                  | [Chrome](https://chromewebstore.google.com/detail/mnjggcdmjocbbbhaepdhchncahnbgone) | [Firefox](https://addons.mozilla.org/firefox/addon/sponsorblock/)           | [Other downloads](https://sponsor.ajay.app/)         | Ajay             |
+| SteamDB                       |                                                                                     |                                                                             | [Website](https://steamdb.info/extension/)           | SteamDB          |
+| Stylus                        | [Chrome](https://chromewebstore.google.com/detail/clngdbkpkpeebahjckkjfobafhncgmne) | [Firefox](https://addons.mozilla.org/firefox/addon/styl-us)                 |                                                      | Stylus Team      |
+| uBlock Origin                 | [Chrome](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [Firefox](https://addons.mozilla.org/firefox/addon/ublock-origin)           | [Website](https://ublockorigin.com/)                 | Raymond Hill     |
+| Vencord                       |                                                                                     |                                                                             | [Website](https://vencord.dev/)                      | Vendicated       |
