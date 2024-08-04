@@ -15,6 +15,7 @@
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin) by **fwcd**
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) by **Ritwick Dey**
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) by **David Anson**
+- [Mypy Type Checker](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker) by **Microsoft**
 - [Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools) by **Microsoft**
 - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) by **Microsoft**
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) by **Prettier**
