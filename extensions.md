@@ -39,9 +39,6 @@
    "editor.wordWrap": "on",
    "editor.formatOnPaste": true,
    "editor.formatOnSave": true,
-	"files.exclude": {
-		"**/.git": false
-	},
    "explorer.confirmDelete": false,
    "explorer.confirmDragAndDrop": false,
    "background.editorBackgrounds": [
