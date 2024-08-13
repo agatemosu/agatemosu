@@ -9,7 +9,7 @@
 - [Discord Rich Presence](https://marketplace.visualstudio.com/items?itemName=LeonardSSH.vscord) by **leonardssh**
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) by **EditorConfig**
 - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) by **tamasfe**
-- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) by **GrapeCity**
+- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) by **MESCIUS**
 - [Jinja](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja) by **wholroyd**
 - [Jinja Snippets](https://marketplace.visualstudio.com/items?itemName=noxiz.jinja-snippets) by **noxiz**
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin) by **fwcd**
