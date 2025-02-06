@@ -8,8 +8,6 @@
 - [Discord Rich Presence](https://marketplace.visualstudio.com/items?itemName=LeonardSSH.vscord) by **leonardssh**
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) by **EditorConfig**
 - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) by **tamasfe**
-- [Jinja](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja) by **wholroyd**
-- [Jinja Snippets](https://marketplace.visualstudio.com/items?itemName=noxiz.jinja-snippets) by **noxiz**
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin) by **fwcd**
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) by **Ritwick Dey**
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) by **David Anson**
