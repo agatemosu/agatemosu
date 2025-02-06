@@ -3,7 +3,6 @@
 ## Visual Studio Code
 
 - [Background](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background) by **Katsute**
-- [Better Git Line Blame](https://marketplace.visualstudio.com/items?itemName=mk12.better-git-line-blame) by **Mitchell Kember**
 - [Biome](https://marketplace.visualstudio.com/items?itemName=biomejs.biome) by **biomejs**
 - [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) by **Microsoft**
 - [Discord Rich Presence](https://marketplace.visualstudio.com/items?itemName=LeonardSSH.vscord) by **leonardssh**
