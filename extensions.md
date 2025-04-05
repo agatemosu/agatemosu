@@ -75,6 +75,13 @@
 
 </details>
 
+## Zed
+
+- [Git Firefly](https://github.com/d1y/git_firefly) by **d1y**
+- [Catppuccin Icons](https://github.com/catppuccin/zed-icons) by **Catppuccin**
+- [Biome](https://github.com/biomejs/biome-zed) by **biomejs**
+- [Discord Presence](https://github.com/xhyrom/zed-discord-presence) by **Jozef Steinhübl**
+
 ## IntelliJ
 
 - [Astro](https://plugins.jetbrains.com/plugin/20959-astro) by **JetBrains**
