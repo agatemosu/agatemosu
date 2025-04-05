@@ -33,7 +33,6 @@
    "editor.tabSize": 3,
    "editor.insertSpaces": false,
    "editor.wordWrap": "on",
-   "editor.formatOnPaste": true,
    "editor.formatOnSave": true,
    "explorer.confirmDelete": false,
    "explorer.confirmDragAndDrop": false,
