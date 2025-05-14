@@ -2,4 +2,5 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/748341822434181231?bg=24222a&borderRadius=6px)](https://visualizer.eggsy.xyz/748341822434181231)
 
-###### [Extensions](extensions.md)
+[Extensions](extensions.md)\
+osu! spanish translation: <https://discord.gg/scDWfrJMyN>
